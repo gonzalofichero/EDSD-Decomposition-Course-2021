@@ -21,7 +21,14 @@ Kitagawa (1955)
 
 Vaupel and Canudas Romo (2003)
 
-### Readings
+### Day 2
+Quick review
+
+Prevalence based lifetables
+
+Decomposition of life expectancy
+
+## Readings
 #### Day 1
 Kitagawa, Evelyn M. ‘Components of a Difference Between Two Rates’. Journal of the American Statistical Association 50, no. 272 (1955): 1168–94. https://doi.org/10.2307/2281213.
  
