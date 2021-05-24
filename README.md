@@ -54,5 +54,14 @@ Canudas-Romo, Vladimir, José Manuel Aburto, Victor Manuel García-Guerrero, and
 
 Canudas-Romo, Vladimir, Víctor Manuel García-Guerrero, and Carlos Javier Echarri-Cánovas. ‘The Stagnation of the Mexican Male Life Expectancy in the First Decade of the 21st Century: The Impact of Homicides and Diabetes Mellitus’. Journal of Epidemiology and Community Health 69, no. 1 (January 2015): 28–34. https://doi.org/10.1136/jech-2014-204237.
 
+## Teams
+
+### Team 1
+- Aïnhoa Léger
+- Gonzalo Garcia 
+- Liliana Calderón  
+- Marilyn Tremblay
+- Özge Özer  
+
 ## Course prerequisites
 Students should be familiar with basic life table construction. Ideally, students should also have a basic understanding of decomposition methods. It is recommended that students read Preston et al. (2001) Chapters 2-4 prior to the commencement of the course (or an equivalent textbook covering life tables and decomposition). A basic command of R, including data handling, for-loops, and writing basic functions, is a prerequisite. 
