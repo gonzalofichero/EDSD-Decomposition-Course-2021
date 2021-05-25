@@ -3,7 +3,7 @@
 Start: 24/05/2021
 End: 27/05/2021
 
-Classes will start at 2.00pm (UK time)
+Classes will start at 2.00pm (Oxford time), 3.00pm (Barcelona time), 10.00am (Sao Paulo time)
 
 Instructor: José Manuel Aburto
 
