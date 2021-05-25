@@ -87,7 +87,7 @@ Preston, Samuel H., Patrick Heuveline, and Michel Guillot. Demography, Measuring
 - Josephine Akua
 - Carlos Félix Vega
 - Silvia Gastón Guiu
-- Rafael Navarro
+- Milena 
 
 ## Course prerequisites
 Students should be familiar with basic life table construction. Ideally, students should also have a basic understanding of decomposition methods. It is recommended that students read Preston et al. (2001) Chapters 2-4 prior to the commencement of the course (or an equivalent textbook covering life tables and decomposition). A basic command of R, including data handling, for-loops, and writing basic functions, is a prerequisite. 
