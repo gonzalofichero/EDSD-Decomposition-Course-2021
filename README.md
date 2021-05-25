@@ -54,6 +54,11 @@ Canudas-Romo, Vladimir, José Manuel Aburto, Victor Manuel García-Guerrero, and
 
 Canudas-Romo, Vladimir, Víctor Manuel García-Guerrero, and Carlos Javier Echarri-Cánovas. ‘The Stagnation of the Mexican Male Life Expectancy in the First Decade of the 21st Century: The Impact of Homicides and Diabetes Mellitus’. Journal of Epidemiology and Community Health 69, no. 1 (January 2015): 28–34. https://doi.org/10.1136/jech-2014-204237.
 
+Preston, Samuel H., Patrick Heuveline, and Michel Guillot. Demography, Measuring and Modeling Population Processes, 2001. Chapters on decompostion.
+
+  
+  
+
 ## Teams
 
 ### Team 1
