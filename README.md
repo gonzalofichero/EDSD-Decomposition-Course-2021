@@ -61,7 +61,7 @@ Canudas-Romo, Vladimir, Víctor Manuel García-Guerrero, and Carlos Javier Echar
 - Gonzalo Garcia 
 - Liliana Calderón  
 - Marilyn Tremblay
-- Özge Özer
+- Özge Elif Özer
 
 ### Team 2
 -	Anna Vera Jørring Pallesen
@@ -70,6 +70,19 @@ Canudas-Romo, Vladimir, Víctor Manuel García-Guerrero, and Carlos Javier Echar
 -	Ursula Gazeley
 -	Alice Wolfle 
 
+### Team 3
+- Paola Vazquez-Castillo
+- Lucas Pitombeira
+- Silvio Cabral
+- Rafael Navarro
+- Gianluca Supertti 
+
+### Team 4 
+- Özer Bakar
+- Josephine Akua
+- Carlos Félix Vega
+- Silvia Gastón Guiu
+- Rafael Navarro
 
 ## Course prerequisites
 Students should be familiar with basic life table construction. Ideally, students should also have a basic understanding of decomposition methods. It is recommended that students read Preston et al. (2001) Chapters 2-4 prior to the commencement of the course (or an equivalent textbook covering life tables and decomposition). A basic command of R, including data handling, for-loops, and writing basic functions, is a prerequisite. 
