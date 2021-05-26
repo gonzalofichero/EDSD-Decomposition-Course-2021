@@ -54,10 +54,25 @@ Canudas-Romo, Vladimir, José Manuel Aburto, Victor Manuel García-Guerrero, and
 
 Canudas-Romo, Vladimir, Víctor Manuel García-Guerrero, and Carlos Javier Echarri-Cánovas. ‘The Stagnation of the Mexican Male Life Expectancy in the First Decade of the 21st Century: The Impact of Homicides and Diabetes Mellitus’. Journal of Epidemiology and Community Health 69, no. 1 (January 2015): 28–34. https://doi.org/10.1136/jech-2014-204237.
 
+Aburto, José Manuel, and Alyson van Raalte. ‘Lifespan Dispersion in Times of Life Expectancy Fluctuation: The Case of Central and Eastern Europe’. Demography 55, no. 6 (December 2018): 2071–96. https://doi.org/10.1007/s13524-018-0729-9.
+
 Preston, Samuel H., Patrick Heuveline, and Michel Guillot. Demography, Measuring and Modeling Population Processes, 2001. Chapters on decompostion.
 
-  
-  
+#### Day 3
+
+Preston, Samuel H., Patrick Heuveline, and Michel Guillot. Demography, Measuring and Modeling Population Processes, 2001. Chapter 4.
+
+Colchero, Fernando, Roland Rau, Owen R. Jones, Julia A. Barthold, Dalia A. Conde, Adam Lenart, Laszlo Nemeth, et al. ‘The Emergence of Longevous Populations’. Proceedings of the National Academy of Sciences 113, no. 48 (29 November 2016): E7681–90. https://doi.org/10.1073/pnas.1612191113.
+
+Raalte, Alyson A. van, and Hal Caswell. ‘Perturbation Analysis of Indices of Lifespan Variability’. Demography 50, no. 5 (October 2013): 1615–40. https://doi.org/10.1007/s13524-013-0223-3.
+
+Raalte, Alyson A. van, Isaac Sasson, and Pekka Martikainen. ‘The Case for Monitoring Life-Span Inequality’. Science 362, no. 6418 (30 November 2018): 1002–4. https://doi.org/10.1126/science.aau5811.
+
+Horiuchi, Shiro, John R. Wilmoth, and Scott D. Pletcher. ‘A Decomposition Method Based on a Model of Continuous Change’. Demography 45, no. 4 (1 November 2008): 785–801. https://doi.org/10.1353/dem.0.0033.
+
+García, Jenny, and José Manuel Aburto. ‘The Impact of Violence on Venezuelan Life Expectancy and Lifespan Inequality’. International Journal of Epidemiology 48, no. 5 (1 October 2019): 1593–1601. https://doi.org/10.1093/ije/dyz072.
+
+Aburto, José Manuel, and Hiram Beltrán-Sánchez. ‘Upsurge of Homicides and Its Impact on Life Expectancy and Life Span Inequality in Mexico, 2005–2015’. American Journal of Public Health 109, no. 3 (March 2019): 483–89. https://doi.org/10.2105/AJPH.2018.304878.
 
 ## Teams
 
@@ -87,7 +102,7 @@ Preston, Samuel H., Patrick Heuveline, and Michel Guillot. Demography, Measuring
 - Josephine Akua
 - Carlos Félix Vega
 - Silvia Gastón Guiu
-- Rafael Navarro
+- Milena 
 
 ## Course prerequisites
 Students should be familiar with basic life table construction. Ideally, students should also have a basic understanding of decomposition methods. It is recommended that students read Preston et al. (2001) Chapters 2-4 prior to the commencement of the course (or an equivalent textbook covering life tables and decomposition). A basic command of R, including data handling, for-loops, and writing basic functions, is a prerequisite. 
