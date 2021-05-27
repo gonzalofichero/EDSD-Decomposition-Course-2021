@@ -37,7 +37,7 @@ Lifespan variation
 
 Linear integral decomposition
 
-### Day 3
+### Day 4
 Quick review
 
 Competing risks review
