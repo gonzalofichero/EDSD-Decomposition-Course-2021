@@ -28,6 +28,24 @@ Prevalence based lifetables
 
 Decomposition of life expectancy
 
+### Day 3
+Quick review
+
+Cause-deleted lifetables
+
+Lifespan variation
+
+Linear integral decomposition
+
+### Day 3
+Quick review
+
+Competing risks review
+
+Spread-Allocation-Timing decomposition
+
+Formal Demography
+
 ## Readings
 #### Day 1
 Kitagawa, Evelyn M. ‘Components of a Difference Between Two Rates’. Journal of the American Statistical Association 50, no. 272 (1955): 1168–94. https://doi.org/10.2307/2281213.
@@ -73,6 +91,19 @@ Horiuchi, Shiro, John R. Wilmoth, and Scott D. Pletcher. ‘A Decomposition Meth
 García, Jenny, and José Manuel Aburto. ‘The Impact of Violence on Venezuelan Life Expectancy and Lifespan Inequality’. International Journal of Epidemiology 48, no. 5 (1 October 2019): 1593–1601. https://doi.org/10.1093/ije/dyz072.
 
 Aburto, José Manuel, and Hiram Beltrán-Sánchez. ‘Upsurge of Homicides and Its Impact on Life Expectancy and Life Span Inequality in Mexico, 2005–2015’. American Journal of Public Health 109, no. 3 (March 2019): 483–89. https://doi.org/10.2105/AJPH.2018.304878.
+
+#### Day 4
+Nau, Claudia, and Glenn Firebaugh. ‘A New Method for Determining Why Length of Life Is More Unequal in Some Populations Than in Others’. Demography 49, no. 4 (November 2012): 1207–30. https://doi.org/10.1007/s13524-012-0133-9.
+ 
+Alvarez, Jesús-Adrián, José Manuel Aburto, and Vladimir Canudas-Romo. ‘Latin American Convergence and Divergence towards the Mortality Profiles of Developed Countries’. Population Studies 74, no. 1 (2 January 2020): 75–92. https://doi.org/10.1080/00324728.2019.1614651.
+
+Keyfitz, Nathan. ‘What Difference Would It Make If Cancer Were Eradicated? An Examination of the Taeuber Paradox’. Demography 14, no. 4 (November 1977): 411. https://doi.org/10.2307/2060587.
+
+Goldman, Noreen, and Graham Lord. ‘A New Look at Entropy and the Life Table’. Demography 23, no. 2 (May 1986): 275. https://doi.org/10.2307/2061621.
+
+Aburto, José Manuel, Francisco Villavicencio, Ugofilippo Basellini, Søren Kjærgaard, and James W. Vaupel. ‘Dynamics of Life Expectancy and Life Span Equality’. Proceedings of the National Academy of Sciences 117, no. 10 (10 March 2020): 5250–59. https://doi.org/10.1073/pnas.1915884117.
+
+Aburto, José Manuel, Jesús-Adrián Alvarez-Martínez, Francisco Villavicencio, and James W. Vaupel. ‘The Threshold Age of the Lifetable Entropy’. Demographic Research 41 (9 July 2019): 83–102. https://doi.org/10.4054/DemRes.2019.41.4.
 
 ## Teams
 
