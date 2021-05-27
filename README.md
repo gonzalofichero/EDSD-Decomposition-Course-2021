@@ -46,6 +46,8 @@ Spread-Allocation-Timing decomposition
 
 Formal Demography
 
+Class and course evaluation
+
 ## Readings
 #### Day 1
 Kitagawa, Evelyn M. ‘Components of a Difference Between Two Rates’. Journal of the American Statistical Association 50, no. 272 (1955): 1168–94. https://doi.org/10.2307/2281213.
